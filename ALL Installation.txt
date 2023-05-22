@@ -1,0 +1,30 @@
+https://grafana.com/docs/grafana/latest/setup-grafana/installation/rpm/  (grafana )
+
+https://www.ionos.com/digitalguide/server/configuration/apache-tomcat-on-centos/  (tomcat)
+
+https://jfrog.com/community/download-artifactory-oss/  (jfrog)
+
+https://www.zenesys.com/blog/install-and-configure-jenkins-on-centos-7  (linux)
+
+https://prometheus.io/download/ (prometheus)
+
+
+https://www.ktexperts.com/how-to-install-ansible-in-amazon-linux-machine/  (ansible)
+
+https://phoenixnap.com/kb/check-java-version-linux#:~:text=Alternatively%2C%20you%20can%20use%20the,to%20find%20the%20Java%20path.&text=The%20output%20tells%20you%20that,%2Fusr%2Fbin%2Fjava.&text=Inspecting%20the%20directory%20shows%20that,%2Fetc%2Falternatives%2Fjava. (java path)
+
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli  (teraform)
+
+https://www.cidevops.com/2018/06/terraform-files-for-provisioning-ec2.html  (teraform)
+
+https://www.youtube.com/watch?v=vRG_JqTwb94&list=PLJwvtUqYDmA4lZ_f43ftm8Xvn5ZvddMTK&index=16  (teraform)
+
+https://docs.rackspace.com/support/how-to/install-gitlab-on-centos-7/ (gitlab)
+
+https://docs.gitlab.com/ee/ci/yaml/ (
+
+
+
+https://developer.hashicorp.com/terraform 
+
+Admin@123
